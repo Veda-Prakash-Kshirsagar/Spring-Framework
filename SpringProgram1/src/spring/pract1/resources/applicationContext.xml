@@ -7,9 +7,9 @@
 
     <!-- bean definitions here -->
     <bean class = "spring.pract1.beans.Student" id = "StudId">
-    	<property name = "name" value = "Veda"></property>
+    	<property name = "name" value = "xyz"></property>
     	<property name = "rollno" value = "41"></property>
-    	<property name = "email" value = "Veda@gmail.com"></property>
+    	<property name = "email" value = "xyz@gmail.com"></property>
     </bean>
 
 </beans>
