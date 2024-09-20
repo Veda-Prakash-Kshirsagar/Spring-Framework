@@ -15,8 +15,8 @@ public class SpringCinfig {
 		
 		dsource.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		dsource.setUrl("jdbc:mysql://localhost:3306/Spring_jdbc");
-		dsource.setUsername("root");
-		dsource.setPassword("VS@06Feb");
+		dsource.setUsername("<DB username>");
+		dsource.setPassword("<DB password>");
 		
 		
 		return dsource;
